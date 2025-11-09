@@ -1,0 +1,14 @@
+{
+  "Plugin-Class": "org.noctorin.ElytraEatPausePlugin",
+  "Name": "${project.plugin_name}",
+  "Version": "${project.plugin_version}",
+  "Description": "Pauses ElytraFly while eating to reduce rubberbanding",
+  "URL": "https://github.com/RusherDevelopment/example-plugin",
+  "Authors": [
+    "Noctorin",
+    "john(i guess idk)"
+  ],
+  "Minecraft-Versions": [
+    "${project.minecraft_version}"
+  ]
+}
